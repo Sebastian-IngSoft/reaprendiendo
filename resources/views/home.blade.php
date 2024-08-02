@@ -12,14 +12,14 @@
 
         welcome to the home with blade
 
-        <x-alert type="danger" class="mb-4" class2="mx-1">{{--tiene que haber la carpeta componentes para que sea usado
+        <x-alert2 type="info" class="mb-4" class2="mx-1">{{--tiene que haber la carpeta componentes para que sea usado
             --}}
             <x-slot name="title"> 
                 titulo con variable
             </x-slot>
 
             Contenido de la alerta
-        </x-alert>
+        </x-alert2>
     </div>
 </body>
 </html>
