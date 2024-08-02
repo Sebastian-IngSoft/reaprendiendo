@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    welcome to the home with blade
+    Index of the post
 </body>
 </html>
